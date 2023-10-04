@@ -1,0 +1,10 @@
+timestamp, sensor_type, sensor_value
+1668208000, camera, [[0.1, 0.2, 0.3], [0.4, 0.5, 0.6], [0.7, 0.8, 0.9]]
+1668208000, lidar, [1.0, 2.0, 3.0, 4.0, 5.0]
+1668208000, ultrasonic_sensor, 0.6
+1668208000, motor_1, 100
+1668208000, gripper_1, open
+1668208000, temperature_sensor, 25.0
+1668208000, position_sensor, [0.0, 0.0, 0.0]
+1668208000, orientation_sensor, [0.0, 0.0, 0.0]
+1668208000, velocity_sensor, [0.0, 0.0, 0.0]
